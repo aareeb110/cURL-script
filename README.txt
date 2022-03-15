@@ -1,7 +1,4 @@
-Areeb Amjad
-afamjad@ucsc.edu
-afamjad
-Student ID: 1801050
+aareeb110
 
 Files:
 - afamjadMyCurl.py - This file contains the curl recreation script.
